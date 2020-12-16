@@ -1,0 +1,8 @@
+#root {
+    padding-left: 9%;
+    padding-right: 9%;
+}
+
+html {
+    scroll-behavior: smooth;
+  }

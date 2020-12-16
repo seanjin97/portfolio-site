@@ -1,0 +1,8 @@
+.fab {
+    color: black;
+    font-size: 2rem;
+}
+
+.fab:hover{
+    color: #464646;
+}

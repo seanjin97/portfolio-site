@@ -1,0 +1,15 @@
+.about-section {
+    margin-top: 100px;
+}
+
+.aboutme {
+    font-weight: bold;
+    text-align: left;
+    font-size: 4vh;
+    margin-bottom: 50px;
+}
+
+.aboutme-img { 
+    width: 250px;
+    height: auto;
+}
