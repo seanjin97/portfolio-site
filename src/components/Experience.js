@@ -36,7 +36,7 @@ export default function Experience() {
 				<VerticalTimelineElement
 					className='vertical-timeline-element--work'
 					contentArrowStyle={{ borderRight: '7px solid  black' }}
-					date='Sep 2020 - Dec 2020'
+					date='Dec 2019 - Jan 2020'
 					iconStyle={{ background: '#363636', color: '#ffffff' }}
 				>
 					<h3 className='vertical-timeline-element-title'>
@@ -59,7 +59,7 @@ export default function Experience() {
 				<VerticalTimelineElement
 					className='vertical-timeline-element--work'
 					contentArrowStyle={{ borderRight: '7px solid  black' }}
-					date='Sep 2020 - Dec 2020'
+					date='May 2019 - Aug 2019'
 					iconStyle={{ background: '#646464', color: '#ffffff' }}
 				>
 					<h3 className='vertical-timeline-element-title'>
