@@ -76,18 +76,6 @@ export default function Experience() {
 						reports for daily stand-ups to track project progress.
 					</p>
 				</VerticalTimelineElement>
-				<VerticalTimelineElement
-					className='vertical-timeline-element--work'
-					contentArrowStyle={{ borderRight: '7px solid  black' }}
-					date='May 2019 - Aug 2019'
-					iconStyle={{ background: '#646464', color: '#ffffff' }}
-				>
-					<h3 className='vertical-timeline-element-title'>
-						Technology Risk Management Intern
-					</h3>
-					<h4 className='vertical-timeline-element-subtitle'>Ernst & Young</h4>
-					<p>test</p>
-				</VerticalTimelineElement>
 			</VerticalTimeline>
 		</div>
 	);
