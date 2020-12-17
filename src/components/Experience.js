@@ -53,7 +53,7 @@ export default function Experience() {
 						through Hadoop and AWS S3 for visualisation using Python, R and
 						QGIS. <br></br>● Conducted internal training sessions to share about
 						geospatial data visualisation and manipulation techniques focused
-						around the QGIS software.{' '}
+						around the QGIS software.
 					</p>
 				</VerticalTimelineElement>
 				<VerticalTimelineElement
@@ -73,8 +73,20 @@ export default function Experience() {
 						applications to ensure the smooth transition of merging
 						applications. <br></br>● Verification of documentation to ensure
 						that industry standards are followed strictly. <br></br> ● Prepared
-						reports for daily stand-ups to track project progress.{' '}
+						reports for daily stand-ups to track project progress.
 					</p>
+				</VerticalTimelineElement>
+				<VerticalTimelineElement
+					className='vertical-timeline-element--work'
+					contentArrowStyle={{ borderRight: '7px solid  black' }}
+					date='May 2019 - Aug 2019'
+					iconStyle={{ background: '#646464', color: '#ffffff' }}
+				>
+					<h3 className='vertical-timeline-element-title'>
+						Technology Risk Management Intern
+					</h3>
+					<h4 className='vertical-timeline-element-subtitle'>Ernst & Young</h4>
+					<p>test</p>
 				</VerticalTimelineElement>
 			</VerticalTimeline>
 		</div>
