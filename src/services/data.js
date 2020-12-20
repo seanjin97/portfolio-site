@@ -12,6 +12,26 @@ const data = {
 		},
 		{
 			id: 2,
+			title: 'FullOrNot Telegram Bot',
+			para:
+				'A Telegram bot that helps you plan your study schedule by providing crowd level information. ',
+			imageSrc: 'https://i.ibb.co/mRbxPy8/fullornot-2.png',
+			url: 'https://fullornot.herokuapp.com/',
+			skills:
+				'Python, Telegram API, Pandas, Flask, XGBoost, Sklearn, Heroku, HTML, CSS, PostgreSQL',
+		},
+		{
+			id: 3,
+			title: 'OneCharitySG',
+			para:
+				'A full stack web application dashboard for charities to faciliatet the end to end process of food aid',
+			imageSrc: 'https://i.ibb.co/mRbxPy8/fullornot-2.png',
+			url: 'https://github.com/gYunTian/G1T3-frontend',
+			livesite: 'https://ebs-g1t3.cfapps.us10.hana.ondemand.com',
+			skills: 'React, HTML, CSS, SAP Cloud Services, Mobile, NodeJS',
+		},
+		{
+			id: 4,
 			title: 'DSTA TIL 2020 Competition',
 			para:
 				'Robomaster Robot trained to recognise categories of clothing categories and navigate through a obstacle course.',
@@ -20,17 +40,7 @@ const data = {
 			skills: 'Python, Tensorflow, CNN, Sklearn',
 		},
 		{
-			id: 3,
-			title: 'FullOrNot Telegram Bot',
-			para:
-				'A Telegram bot that helps you plan your study schedule by providing crowd level information. ',
-			imageSrc: 'https://i.ibb.co/mRbxPy8/fullornot-2.png',
-			url: 'https://fullornot.herokuapp.com/',
-			skills:
-				'Python, Telegram API, Pandas, XGBoost, Sklearn, Heroku, HTML, CSS, PostgreSQL',
-		},
-		{
-			id: 4,
+			id: 5,
 			title: 'Excel Automation with GUI',
 			para:
 				'Python GUI application that populates fields that the user chooses. Provides Auto-filtering and formating of data.',
@@ -39,7 +49,7 @@ const data = {
 			skills: 'Python, Pandas, XLWings',
 		},
 		{
-			id: 5,
+			id: 6,
 			title: 'COVID-19 Sentiment Analysis',
 			para:
 				'Sentiment analysis and topic modelling done on COVID-19 related data scraped from HardwareZone and Reddit forums.',
@@ -48,7 +58,7 @@ const data = {
 			skills: 'Sklearn, Gensim, NLTK, Pandas, Python, Beautiful Soup, Selenium',
 		},
 		{
-			id: 6,
+			id: 7,
 			title: 'Modelling Earthquake Damage',
 			para: 'Developing a predictive model to predict Earthquake damage.',
 			imageSrc: 'https://i.ibb.co/sqb0nmR/earthquake.png',

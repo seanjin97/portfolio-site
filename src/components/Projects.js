@@ -37,7 +37,7 @@ export default function Projects() {
 									href={project.url}
 									target='__blank'
 									rel='noopener noreferrer'
-									className='align-self-end mt-auto'
+									className='align-self-end ml-auto mt-auto'
 								>
 									View More
 								</Button>
