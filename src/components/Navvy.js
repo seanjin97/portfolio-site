@@ -16,7 +16,7 @@ export default function Navvy({ props }) {
 	const toggle = () => setIsOpen(!isOpen);
 
 	return (
-		<div className='navvy'>
+		<div className='navvy animate__animated animate__fadeInDown animate__delay-3s'>
 			<Navbar color='faded' light expand='md'>
 				<NavbarBrand href='/'>
 					<b>Sean Jin.</b>

@@ -15,7 +15,10 @@ import data from '../services/data';
 
 export default function Projects() {
 	return (
-		<Container fluid>
+		<Container
+			fluid
+			className='animate__animated animate__fadeIn animate__delay-4s'
+		>
 			<h1 className='section-header'>Projects</h1>
 			<Row fluid className='d-flex justify-content-between'>
 				{data.projects.map((project) => (

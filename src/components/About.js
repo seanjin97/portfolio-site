@@ -1,4 +1,4 @@
-import { Container, Row, Col, Media } from 'reactstrap';
+import { Row, Col, Media } from 'reactstrap';
 import './About.css';
 
 export default function About() {

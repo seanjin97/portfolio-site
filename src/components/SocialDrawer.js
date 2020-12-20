@@ -3,7 +3,7 @@ import './SocialDrawer.css';
 
 export default function SocialDrawer() {
 	return (
-		<Container className='d-flex justify-content-center'>
+		<Container className='d-flex justify-content-center animate__animated animate__fadeInUp animate__delay-3s'>
 			<Row>
 				<Col>
 					<a
