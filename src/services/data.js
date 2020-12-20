@@ -24,10 +24,9 @@ const data = {
 			id: 3,
 			title: 'OneCharitySG',
 			para:
-				'A full stack web application dashboard for charities to faciliatet the end to end process of food aid',
-			imageSrc: 'https://i.ibb.co/mRbxPy8/fullornot-2.png',
+				'A full stack web application dashboard for charities to facilitate the end to end process of food aid',
+			imageSrc: 'https://i.ibb.co/MZdvs3N/onecharitysg.png',
 			url: 'https://github.com/gYunTian/G1T3-frontend',
-			livesite: 'https://ebs-g1t3.cfapps.us10.hana.ondemand.com',
 			skills: 'React, HTML, CSS, SAP Cloud Services, Mobile, NodeJS',
 		},
 		{
@@ -65,6 +64,50 @@ const data = {
 			url: 'https://github.com/seanjin97/Earthquake-Modelling',
 			skills:
 				'Python, Sklearn, Pandas, XGBoost, RandomForest, LogisticRegresion',
+		},
+	],
+	studentlife: [
+		{
+			id: 1,
+			club: 'SMU .Hack',
+			position: 'Member',
+			description: [
+				'A Student Interest Group within SMU School of Information Systems. Formerly known as "DotNet Society", this is the only programming-focused club in SMU where students meet regularly every week to discuss on various programming topics.',
+				'As a member, I participated in various workshops and group projects to further extend my technical knowledge in the software development field.',
+			],
+		},
+		{
+			id: 2,
+			club: 'SMU School of Information Systems Students’ Society (Ellipsis)',
+			position: 'Professional Development Director',
+			description: [
+				'SMU Ellipsis is the core student body of the School of Information Systems (SIS) in SMU that focuses on maintaining a united SIS.',
+				'During my time in Ellipsis, Lead the Professional Development team in the planning various initiatives such as networking sessions that aim to help students earn and maintain professional credentials.',
+				'● Coordinated collaborations between industry partners and relevant stakeholders in areas such as sponsorships.',
+				'● Managed events in areas such as planning logistics, programmes and operations requirements.',
+				'● Organised various workshops in collaboration with faculty staff to provide platforms to support the academic development of the students.',
+			],
+			events:
+				'Ellipsis Tech Series, Ellipsis Hackathon, Ellipsis Coders Assembly (Mentoring programme), Ellipsis Networking Session.',
+		},
+		{
+			id: 3,
+			club: 'SMU School of Information Systems Students’ Society (Ellipsis)',
+			position: 'Welfare Executive',
+			description: [
+				'Planned various events aimed to provide students with freebies and incentives as a form of encouragement to promote a fun and closed knitted community amongst the students and staff in the faculty.',
+			],
+			events:
+				'Back-to-School Welfare Drive, Exam Stress Relief Welfare Drive, Valetines Day Event',
+		},
+		{
+			id: 4,
+			club: 'SMU Habitat for Humanity',
+			position: 'Event Subcommittee Member',
+			description: [
+				'Organised various activities aimed to bond members of the club and to forge a close relationships with Habitat for Humanity Singapore and its beneficiaries.',
+			],
+			events: 'Valetines Day Rose Fundraising',
 		},
 	],
 };

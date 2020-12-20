@@ -33,6 +33,9 @@ export default function Navvy({ props }) {
 						<NavItem>
 							<NavLink href='/#experience'>Experience</NavLink>
 						</NavItem>
+						<NavItem>
+							<NavLink href='/#studentlife'>Student Life</NavLink>
+						</NavItem>
 					</Nav>
 				</Collapse>
 			</Navbar>

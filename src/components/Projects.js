@@ -8,15 +8,16 @@ import {
 	CardSubtitle,
 	Button,
 	CardText,
+	Container,
 } from 'reactstrap';
 import './Projects.css';
 import data from '../services/data';
 
 export default function Projects() {
 	return (
-		<div>
+		<Container fluid>
 			<h1 className='section-header'>Projects</h1>
-			<Row className='d-flex justify-content-between'>
+			<Row fluid className='d-flex justify-content-between'>
 				{data.projects.map((project) => (
 					<Col key={project.id} lg='4' className='project-item-container'>
 						<Card className='project-item shadow rounded'>
@@ -46,6 +47,6 @@ export default function Projects() {
 					</Col>
 				))}
 			</Row>
-		</div>
+		</Container>
 	);
 }

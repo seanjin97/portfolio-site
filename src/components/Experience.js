@@ -21,7 +21,7 @@ export default function Experience() {
 					<h3 className='vertical-timeline-element-title'>
 						Data & Tech Intern
 					</h3>
-					<h4 className='vertical-timeline-element-subtitle'>
+					<h4 className='vertical-timeline-element-subtitle text-muted'>
 						Ministry of Social & Family Development
 					</h4>
 					<p>
@@ -42,7 +42,7 @@ export default function Experience() {
 					<h3 className='vertical-timeline-element-title'>
 						Product Management Intern
 					</h3>
-					<h4 className='vertical-timeline-element-subtitle'>
+					<h4 className='vertical-timeline-element-subtitle text-muted'>
 						DataSpark Analytics
 					</h4>
 					<p>
@@ -65,7 +65,9 @@ export default function Experience() {
 					<h3 className='vertical-timeline-element-title'>
 						Technology Risk Management Intern
 					</h3>
-					<h4 className='vertical-timeline-element-subtitle'>Ernst & Young</h4>
+					<h4 className='vertical-timeline-element-subtitle text-muted'>
+						Ernst & Young
+					</h4>
 					<p>
 						● Performed technology related research and IT due diligence for the
 						APAC region to identify and recommend industry best practices to the
